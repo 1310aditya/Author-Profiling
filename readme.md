@@ -1,0 +1,5 @@
+# Author Profiling- NLP Course Project
+
+Author profiling includes the study of various profiling traits of an author such as age and gender. This work describes our methodology for the task of cross-genre author profiling, inspired from the PAN 2016 challenge, for the fulfillment of our course requirements in COMPSCI 585 Natural Language Processing at UMass Amherst. Gender and age prediction problem is addressed as a classification task and approach to this problem focuses on feature engineering. Furthermore, in our final model we combine different models which work well with different types of social media data using minimal, simplistic features. With our approach, we are able to achieve competitive accuracies for gender classification task and an improvement in the age classification task, as we further modified the problem to a more viable and useful task.
+
+* [Report](https://github.com/1310aditya/Author-Profiling/blob/master/Report.pdf)
